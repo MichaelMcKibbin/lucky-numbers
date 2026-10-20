@@ -66,3 +66,4 @@ print("The result of today's draw is........ ", todays_draw)
 # ‘Thank you for providing your lotto numbers. We will check them now.....’
 #
 # The app should now be able to handle a variety of inputs appropriately.
+
