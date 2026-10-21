@@ -21,8 +21,13 @@ When prompted, enter exactly three different numbers between 1 and 25, separated
 ```
 5,10,15
 ```
+or
+```
+5, 10, 15
+```
 
-- The app asks the user for 3 numbers. 
+- The app asks the user for 3 numbers.
+- It can handle spaces between numbers and commas,
 - It rejects non-numeric entries, 
 - It rejects entries without exactly three numbers, 
 - It rejects duplicate numbers, 
